@@ -1,0 +1,18 @@
+{
+	"name": "playwright",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"start": "node ./index.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"playwright": "^1.48.1"
+	},
+	"devDependencies": {
+		"dotenv": "^16.4.5"
+	}
+}

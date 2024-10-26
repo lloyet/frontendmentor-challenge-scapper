@@ -1,0 +1,6 @@
+node_modules/
+screencasts/
+downloads/
+.env*
+
+!.env.example
